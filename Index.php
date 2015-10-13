@@ -13,5 +13,7 @@
 									valet attendant, emergency medical technician, electrician's helper, property preservation specialist,
 									and most recently as a paralegal and office manager of a small law firm. When Matt isn't studying web development,
 									he enjoys spending time with his wife Anita and their 14 month old son Sawyer. </p>
+										<h2>Work Experience</h2>
+											<p>Matt's past jobs are extremely varied. Below is a list of highlights from his work history</p><ul>"Wrestling Coach from 2000 to 2001",</ul>
 						</main>
 </html>
