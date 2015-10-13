@@ -24,7 +24,7 @@
 													<li>Student at Deep Dive Coding Bootcamp Fall 2015</li>
 												</ul>
 													<h3>Hobbies</h3>
-														<img src="img/mattsawyerdavidskiing.jpg" about="Matt Sawyer and David at DMR"/>
+														<img src="img/mattsawyerdavidskiing.jpg" about="Matt Sawyer and David at DMR" width="50%"height="50%" <a href="img/mattsawyerdavidskiing.jpg" target="_blank">  Matt David and Sawyer</a> />
 															<p>Matt has several hobbies which are listed below in no particular order</p>
 																<ol>
 																	<li>Skiing</li>
