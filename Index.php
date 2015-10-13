@@ -1,6 +1,10 @@
-<!DOCTYPE.html>
-<title> This page is about Matt</title>
-<body>
-	<h1>Matt was able to get this sentence published to the internets.</h1>
-
-</body>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>About Matt</title>
+	</head>
+	<body>
+		<h1>Matt successfully published this sentence to the internets!</h1>
+	</body>
+</html>
