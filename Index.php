@@ -28,7 +28,7 @@
 															<p>Matt has several hobbies which are listed below in no particular order.</p>
 																<ol>
 																	<li><a href="http://www.skinet.com/warrenmiller/" target="_blank">Skiing</a></li>
-																	<li>Watching Baseball</li>
+																	<li><a href="http://losangeles.dodgers.mlb.com/index.jsp?c_id=la" target="_blank"> Watching Baseball</a></li>
 																	<li>Spending Time With Family</li>
 																	<li>Practicing Martial Arts</li>
 																	<li>Performing Stand-Up Comedy</li>
