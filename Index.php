@@ -15,16 +15,25 @@
 									he enjoys spending time with his wife Anita and their 14 month old son Sawyer. </p>
 										<h2>Work Experience</h2>
 											<p>Matt's past jobs are extremely varied. Below is a list of highlights from his work history.</p>
-												<ul>Wrestling Coach from 2000 to 2001</ul>
-												<ul>Valet Attendant from 2002 to 2007</ul>
-												<ul>Emergency Medical Technician/Paramedic from 2007 to 2010</ul>
-												<ul>Property Preservation Specialist from 2010 to 2012</ul>
-												<ul>Paralegal, Office Manager and IT from 2012 to 2015</ul>
-												<ul>Student at Deep Dive Coding Bootcamp Fall 2015</ul>
+												<ul>
+													<li>Wrestling Coach from 2000 to 2001</li>
+													<li>Valet Attendant from 2002 to 2007</li>
+													<li>Emergency Medical Technician/Paramedic from 2007 to 2010</li>
+													<li>Property Preservation Specialist from 2010 to 2012</li>
+													<li>Paralegal, Office Manager and IT from 2012 to 2015</li>
+													<li>Student at Deep Dive Coding Bootcamp Fall 2015</li>
+												</ul>
 													<h3>Hobbies</h3>
 														<img src="img/mattsawyerdavidskiing.jpg" about="Matt Sawyer and David at DMR"/>
 															<p>Matt has several hobbies which are listed below in no particular order</p>
-																<ol>Skiing</ol>
-																<ol>Watching Baseball</ol>
+																<ol>
+																	<li>Skiing</li>
+																	<li>Watching Baseball</li>
+																	<li>Spending Time With Family</li>
+																	<li>Practicing Martial Arts</li>
+																	<li>Performing Stand-Up Comedy</li>
+																	<li>Tinkering with Cars and Electronics</li>
+																	<li>Coding!</li>
+																</ol>
 						</main>
 </html>
