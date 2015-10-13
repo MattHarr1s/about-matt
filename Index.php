@@ -38,5 +38,5 @@
 																</ol>
 						</main>
 					</body>
-	<footer><h4>Follow Me on Twitter at:<a href="https://twitter.com/Matt636" target="_blank">@matt636</a></h4> </footer>
+	<footer><h4>Follow Me on Twitter:<a href="https://twitter.com/Matt636" target="_blank">@matt636</a></h4> </footer>
 </html>
