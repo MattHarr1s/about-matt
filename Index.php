@@ -14,6 +14,11 @@
 									and most recently as a paralegal and office manager of a small law firm. When Matt isn't studying web development,
 									he enjoys spending time with his wife Anita and their 14 month old son Sawyer. </p>
 										<h2>Work Experience</h2>
-											<p>Matt's past jobs are extremely varied. Below is a list of highlights from his work history</p><ul>Wrestling Coach from 2000 to 2001</ul><ul>Valet Attendant from 2002 to 2007</ul>
+											<p>Matt's past jobs are extremely varied. Below is a list of highlights from his work history.</p>
+												<ul>Wrestling Coach from 2000 to 2001</ul>
+												<ul>Valet Attendant from 2002 to 2007</ul>
+												<ul>Emergency Medical Technician/Paramedic from 2007 to 2010</ul>
+												<ul>Property Preservation Specialist from 2010 to 2012</ul>
+												<ul>Paralegal, Office Manager and IT from 2012 to 2015</ul>
 						</main>
 </html>
