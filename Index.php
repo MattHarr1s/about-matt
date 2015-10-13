@@ -20,6 +20,11 @@
 												<ul>Emergency Medical Technician/Paramedic from 2007 to 2010</ul>
 												<ul>Property Preservation Specialist from 2010 to 2012</ul>
 												<ul>Paralegal, Office Manager and IT from 2012 to 2015</ul>
-												<ul>Student at Deep Dive Coding Bootcamp</ul>
+												<ul>Student at Deep Dive Coding Bootcamp Fall 2015</ul>
+													<h3>Hobbies</h3>
+														<img src="img/mattsawyerdavidskiing.jpg" about="Matt Sawyer and David at DMR"/>
+															<p>Matt has several hobbies which are listed below in no particular order</p>
+																<ol>Skiing</ol>
+																<ol>Watching Baseball</ol>
 						</main>
 </html>
