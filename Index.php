@@ -6,7 +6,7 @@
 				</head>
 						<main>
 							<h1>Matt Harris</h1>
-							<img src="img/mattsawyer.jpg" about="Matt and Sawyer" />
+							<img src="img/mattsawyer.jpg" about="Matt and Sawyer" width="50%" height="50%"/>
 								<p>Matt Harris is a 33 year old student in the Deep Dive Coding Bootcamp.
 									Matt decided to learn web development on a whim, after spending time in
 									several different fields. Matt has worked as a wrestling coach, wrestling camp counselor,
