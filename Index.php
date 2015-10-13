@@ -25,9 +25,9 @@
 												</ul>
 													<h3>Hobbies</h3>
 														 <a href="img/mattsawyerdavidskiing.jpg" target="_blank"><img src="img/mattsawyerdavidskiing.jpg" about="Matt Sawyer and David at DMR" width="50%" height="50%"/></a>
-															<p>Matt has several hobbies which are listed below in no particular order</p>
+															<p>Matt has several hobbies which are listed below in no particular order.</p>
 																<ol>
-																	<li>Skiing</li>
+																	<li><a href="http://www.skinet.com/warrenmiller/" target="_blank">Skiing</a></li>
 																	<li>Watching Baseball</li>
 																	<li>Spending Time With Family</li>
 																	<li>Practicing Martial Arts</li>
