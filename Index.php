@@ -38,5 +38,6 @@
 																</ol>
 						</main>
 					</body>
-	<footer><h4>Follow Me on Twitter:<a href="https://twitter.com/Matt636" target="_blank">@matt636</a></h4> </footer>
+	<footer><a href="https://twitter.com/Matt636" class="twitter-follow-button" data-show-count="false">Follow @Matt636</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> </footer>
 </html>
