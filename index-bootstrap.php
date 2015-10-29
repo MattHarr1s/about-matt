@@ -37,7 +37,7 @@
 		<title>About Matt</title>
 	</head>
 	<body>
-		<div class="container">
+		<div class="container-fluid">
 			<h1>Matt Harris</h1>
 			<div class="image">
 				<a href="img/mattsawyer.jpg" target="_blank"><img src="img/mattsawyer.jpg"  alt="Matt and Sawyer" />
