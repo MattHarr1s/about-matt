@@ -5,12 +5,14 @@
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Here comes bootstrap-->
-		<link rel="stylesheet" href="https://maxcdn.bootstrap.cdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-		<!--Optional theme-->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
-		</script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 		<!--HTML5 Shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.jsdoesn't work if you viewthe page via file:// -->
 		<!--[if lt IE9]>
@@ -24,6 +26,7 @@
 		<title>About Matt</title>
 	</head>
 	<body>
+		<div class=""
 		<h1>Matt Harris</h1>
 				<a href="img/mattsawyer.jpg" target="_blank"><img src="img/mattsawyer.jpg"  alt="Matt and Sawyer" width="25%"
 				height="25%"/>
