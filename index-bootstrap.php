@@ -39,7 +39,7 @@
 	<body>
 		<div class="container-fluid">
 			<h1>Matt Harris</h1>
-			<div class="image">
+			<div class="image-fluid">
 				<a href="img/mattsawyer.jpg" target="_blank"><img src="img/mattsawyer.jpg"  alt="Matt and Sawyer" />
 			</div>
 			<div class="firstParagraph">
