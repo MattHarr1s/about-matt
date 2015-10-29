@@ -5,17 +5,11 @@
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Here comes bootstrap-->
-		<link rel="stylesheet" href="https://maxcdn.bootstrap.cdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
-			integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
-			crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrap.cdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<!--Optional theme-->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
-				integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX"
-				crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
-				  integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
-				  crossorigin="anonymous">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
 		</script>
 		<!--HTML5 Shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.jsdoesn't work if you viewthe page via file:// -->
@@ -65,8 +59,7 @@
 																	<li>Coding!</li>
 																</ol>
 						</main>
-							<textarea name="What's Up?" maxlength="250" placeholder="Doc" required></textarea>
-					</body>
+				</body>
 	<footer><a href="https://twitter.com/Matt636" class="twitter-follow-button" data-show-count="false">Follow @Matt636</a>
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> </footer>
 </html>
